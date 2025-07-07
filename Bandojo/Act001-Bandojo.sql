@@ -62,5 +62,5 @@ create table courses(
 Course_ID int(10),
 Course_Code varchar(10),
 Course_Title varchar(100),
-Creds int(10),
+Creds int(10)
 );
